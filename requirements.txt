@@ -1,0 +1,4 @@
+pyserial
+argparse
+Flask
+gevent
